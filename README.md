@@ -1,4 +1,4 @@
-I am a software engineer with React, Vue, and Node.js expertise. Currently, I am working remotely with Nanth Health USA. I am passionate and enthusiastic to learn from challenging situations, in a struggle to overcome the thirst for learning and passion for new technologies, languages, processes, styles, and patterns. 
+I am a software engineer with expertise in React, Vue, and Node.js. Currently, I am working remotely with Nanth Health USA. I am passionate and enthusiastic about learning from challenging situations, and I am struggling to overcome the thirst for learning and passion for new technologies, languages, processes, styles, and patterns. 
 
 
 ### 🛠 &nbsp;Languages
@@ -27,7 +27,7 @@ I am a software engineer with React, Vue, and Node.js expertise. Currently, I am
 
 <p align="center">
 <a href="https://github.com/Syed-Bilal-Haider-Engineer">
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed-Bilal-Haider-Engineer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Syed-Bilal-Haider-Engineer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Syed-Bilal-Haider-Engineer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
