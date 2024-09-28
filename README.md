@@ -1,7 +1,7 @@
 
 # 👨‍💻 Syed Bilal Haider
 
-I am a software engineer with expertise in **React, Vue, TypeScript, and Node.js**. Currently, I'm looking **Job**. I am passionate and enthusiastic about learning from challenging situations. My thirst for knowledge drives me to explore new technologies, languages, processes, styles, and patterns.
+I am a software engineer with expertise in **React, Vue, TypeScript, and Node.js**. Currently, I'm looking a **Job**. I am passionate and enthusiastic about learning from challenging situations. My thirst for knowledge drives me to explore new technologies, languages, processes, styles, and patterns.
 
 ### 🛠 &nbsp;Languages
 <p align="center">
