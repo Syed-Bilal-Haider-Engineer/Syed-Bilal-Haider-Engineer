@@ -1,7 +1,7 @@
 
 # 👨‍💻 Syed Bilal Haider
 
-I am a software engineer with expertise in **Frontend • React • Angular • TypeScript • JavaScript • CSS**. Currently, I'm looking for a **Job**. I am passionate and enthusiastic about learning from challenging situations. My thirst for knowledge drives me to explore new technologies, languages, processes, styles, and patterns.
+I am a software engineer with expertise in **Frontend • React • Vue  • TypeScript • JavaScript • CSS**. Currently, I'm looking for a **Job**. I am passionate and enthusiastic about learning from challenging situations. My thirst for knowledge drives me to explore new technologies, languages, processes, styles, and patterns.
 
 ### 🛠 &nbsp;Languages
 <p align="center">
