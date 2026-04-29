@@ -61,13 +61,14 @@ Prisma • React Query • Redux Toolkit • Mapbox • Web3
 - Interactive platform for exploring cultural sites  
 - Mapbox integration with filtering and real-time interaction  
 - Built with React, Node.js, PostgreSQL, Prisma  
-🔗 [https://react-regex-evaluator.vercel.app/](https://react-regex-evaluator.vercel.app/)
+
 ---
 
 ### 🧮 Inline Calculator (React + TypeScript)
 - Custom calculation engine (no eval for security)  
 - Unit tested with Jest  
-- Dockerized with CI/CD deployment  
+- Dockerized with CI/CD deployment
+  🔗 [https://react-regex-evaluator.vercel.app/](https://react-regex-evaluator.vercel.app/)
 
 ---
 
