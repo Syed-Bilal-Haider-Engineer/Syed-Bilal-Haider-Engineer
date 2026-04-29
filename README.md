@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Syed Bilal Haider
 
 💻 Software Engineer | Full-Stack Developer | Frontend Specialist  
-📍 Based in Germany | Open to Work  
+📍 Based in Germany | Open to Work | B1 Deutsch (Improving) 
 
 ---
 
