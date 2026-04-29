@@ -50,9 +50,10 @@ Prisma • React Query • Redux Toolkit • Mapbox • Web3
 
 ### 🚀 WAM Studio – Architecture Modeling Platform
 - Full-stack platform to design system architecture diagrams  
-- Built interactive graph editor using React Flow  
+- Built an interactive graph editor using React Flow  
 - Integrated AI (LLM) for generating diagrams from text  
-🔗 https://www.wam-studio.de/editor  
+🔗 https://www.wam-studio.de/editor
+
 
 ---
 
@@ -60,7 +61,7 @@ Prisma • React Query • Redux Toolkit • Mapbox • Web3
 - Interactive platform for exploring cultural sites  
 - Mapbox integration with filtering and real-time interaction  
 - Built with React, Node.js, PostgreSQL, Prisma  
-
+🔗 [https://react-regex-evaluator.vercel.app/](https://react-regex-evaluator.vercel.app/)
 ---
 
 ### 🧮 Inline Calculator (React + TypeScript)
