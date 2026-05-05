@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Software Engineer with 3+ years of experience building scalable, high-performance web applications across frontend and backend systems.
+Software Engineer with 2.5+ years of experience building scalable, high-performance web applications across frontend and backend systems.
 
 I specialize in **React, Next.js, and TypeScript**, with hands-on experience in backend systems using **Node.js, REST/GraphQL APIs, and databases**.
 
