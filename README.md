@@ -39,7 +39,7 @@ Node.js • Express • REST APIs • GraphQL
 PostgreSQL • MongoDB  
 
 ### Tools & DevOps
-Docker • CI/CD • GitHub Actions • AWS  
+Docker • CI/CD • GitHub Actions • AWS Services ( S3, Lambda Function, API Gatway and Cognito)
 
 ### Other
 Prisma • React Query • Redux Toolkit • Mapbox • Web3  
