@@ -43,33 +43,6 @@ Docker • CI/CD • GitHub Actions • AWS Services ( S3, Lambda Function, API 
 
 ### Other
 Prisma • React Query • Redux Toolkit • Mapbox • Web3  
-
----
-
-## 🌟 Featured Projects
-
-### 🚀 WAM Studio – Architecture Modeling Platform
-- Full-stack platform to design system architecture diagrams  
-- Built an interactive graph editor using React Flow  
-- Integrated AI (LLM) for generating diagrams from text  
-🔗 https://www.wam-studio.de/editor
-
-
----
-
-### 🗺️ Chemnitz Culture – Map-Based Web App
-- Interactive platform for exploring cultural sites  
-- Mapbox integration with filtering and real-time interaction  
-- Built with React, Node.js, PostgreSQL, Prisma  
-
----
-
-### 🧮 Inline Calculator (React + TypeScript)
-- Custom calculation engine (no eval for security)  
-- Unit tested with Jest  
-- Dockerized with CI/CD deployment
-  🔗 [https://react-regex-evaluator.vercel.app/](https://react-regex-evaluator.vercel.app/)
-
 ---
 
 ## 📈 GitHub Stats
