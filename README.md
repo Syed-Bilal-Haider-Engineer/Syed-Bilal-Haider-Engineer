@@ -134,7 +134,7 @@ requirements into reliable software products.
   VoiceyBill AI           React, AI APIs          AI-powered billing
                                                   application.
 
-  Energy Dashboard        Web technologies, Data  Energy data
+  Energy Dashboard        Web technologies, energy data
                           Visualization           visualization and
                                                   analytics.
   -----------------------------------------------------------------------
