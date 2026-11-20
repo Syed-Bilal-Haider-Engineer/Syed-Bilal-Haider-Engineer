@@ -8,7 +8,7 @@ I am an AI Software Engineer with  3 years of professional experience
 building scalable web applications, shipping production-ready apps, designing user-friendly interfaces,
 and developing backend systems.
 
-My core expertise is **React, Next.js, TypeScript, and Node.js**, with
+My core expertise is **React, Next.js, TypeScript, Node.js, and databases **, with
 additional experience in Python, cloud technologies, databases, and
 AI/LLM integrations.
 
