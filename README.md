@@ -1,83 +1,194 @@
 # 👋 Hi, I'm Syed Bilal Haider
 
-💻 Software Engineer | Full-Stack Developer | Frontend Specialist  
-📍 Based in Germany | Open to Work | B1 Deutsch (Improving) 
+### AI Software Engineer \| Full-Stack Developer \| Frontend Specialist \
 
----
+📍 Germany 🇩🇪 \| Open to Opportunities \| German: B1 (Improving)
 
-## 🚀 About Me
+I am an AI Software Engineer with  3 years of professional experience
+building scalable web applications, shipping production-ready apps, designing user-friendly interfaces,
+and developing backend systems.
 
-Software Engineer with nearly 3 years of experience building scalable, high-performance web applications across frontend and backend systems.
+My core expertise is **React, Next.js, TypeScript, and Node.js**, with
+additional experience in Python, cloud technologies, databases, and
+AI/LLM integrations.
 
-I specialize in **React, Next.js, and TypeScript**, with hands-on experience in backend systems using **Node.js, REST/GraphQL APIs, and databases**.
+I enjoy taking ownership of features from concept to production,
+improving application performance, and turning complex technical
+requirements into reliable software products.
 
-🔹 Strong focus on **performance optimization, clean architecture, and scalable systems**  
-🔹 Experience working with **AI/LLM integrations and modern web technologies**  
-🔹 Passionate about solving real-world problems and building impactful products  
+🌐 **Portfolio:**
+[bilal-haider.vercel.app](https://bilal-haider.vercel.app)
 
----
+------------------------------------------------------------------------
 
-## 🧠 What I Bring
+## 🚀 Professional Experience
 
-- ⚡ Build modern, scalable web applications (Frontend + Backend)  
-- 🧩 Design reusable component architectures and clean codebases  
-- 🔗 Develop and integrate APIs (REST & GraphQL)  
-- 📈 Improve performance (20–30% optimization in real projects)  
-- 🤖 Integrate AI/LLM features into production-ready applications  
+  -----------------------------------------------------------------------
+  Company                 Position                Period
+  ----------------------- ----------------------- -----------------------
+  Technical University of Research Assistant/ Software     Sep 2026 -- Present
+  Munich (TUM)            Engineer -- Scientific  
+                          Software Development    
 
----
+  Bettroo AI              Werk Student Software Engineer       Jan -- Mar
+                                                  2026
 
-## 🛠️ Tech Stack
+  Wiseman / OpenNMS (USA, Software Engineer       Jan 2024 -- Sep 2024
+  Remote)                                         
 
-### Frontend
-React • Next.js • TypeScript • JavaScript • Tailwind CSS  
+  CloudPacer              Full-Stack Developer    Mar 2023 -- Jan 2024
 
-### Backend
-Node.js • Express • REST APIs • GraphQL  
+  BlocTech                Frontend Developer      Mar 2022 -- Mar 2023
+  -----------------------------------------------------------------------
 
-### Databases
-PostgreSQL • MongoDB  
+### Key Contributions
 
-### Tools & DevOps
-Docker • CI/CD • GitHub Actions • AWS Services ( S3, Lambda Function, API Gatway and Cognito)
+-   Developed scientific software and desktop applications using Python,
+    PySide6, Qt, and GIS technologies.
+-   Built React and Next.js applications with TypeScript and modern
+    frontend architectures.
+-   Improved API performance and reduced latency by approximately 40% in
+    a previous project.
+-   Developed reusable UI components, dashboards, and data-driven
+    interfaces.
+-   Integrated GraphQL, REST APIs, payment systems, and third-party
+    services.
+-   Worked with AI-powered applications, LLM integrations, and modern
+    development workflows.
+-   Collaborated with international engineering teams using Agile
+    methodologies.
 
-### Other
-Prisma • React Query • Redux Toolkit • Mapbox • Web3  
----
+------------------------------------------------------------------------
 
-## 📈 GitHub Stats
+## 🎓 Education
 
+  -----------------------------------------------------------------------
+  Degree                  Institution             Year / Status
+  ----------------------- ----------------------- -----------------------
+  M.Sc. Web Engineering   Technische Universität  2024 -- 2026
+                          Chemnitz, Germany       
+
+  B.Sc. Computer Science,  Government College      2018 -- 2022
+                          University Faisalabad,  
+                          Pakistan                
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🛠️ Technical Skills
+
+  -----------------------------------------------------------------------
+  Category                            Technologies
+  ----------------------------------- -----------------------------------
+  **Frontend**                        React, Next.js, TypeScript,
+                                      JavaScript, Tailwind CSS, Material
+                                      UI
+
+  **State Management**                Redux Toolkit, React Query, TanStack React.
+
+  **Backend**                         Node.js, Express.js, Python
+                                      
+
+  **APIs**                            REST, GraphQL
+
+  **Databases**                       PostgreSQL, MongoDB, MySQL
+
+  **ORM / Data**                      Prisma
+
+  **AI / LLM**                        OpenAI API, Gemini, Prompt Engineering, Agentic AI, LLM
+                                      Integration, RAG, Local LLM.
+
+  **Cloud**                           AWS S3, Lambda, API Gateway,
+                                      Cognito
+
+  **DevOps**                          Docker, GitHub Actions, CI/CD
+
+  **Other**                           Mapbox, Web3, Git, Figma, Jira
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🏆 Achievements
+
+-   🥈 **2nd Place -- TUM × LB.systems Science Hackathon 2026:**
+    Developed an energy dashboard.
+-   🚀 **hackaTUM 2026:** Perticipate.
+-   ✍️ Published technical articles on software engineering and
+    development.
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+  -----------------------------------------------------------------------
+  Project                 Technologies            Description
+  ----------------------- ----------------------- -----------------------
+  GeoJSON Chemnitz        React, Node.js,         Interactive cultural
+                          PostgreSQL, Mapbox      and location-based
+                                                  application.
+
+  WAM Compositions Editor Next.js, React Flow,    AI-assisted music
+                          Node.js, MongoDB,       composition editor.
+                          Gemini                  
+
+  VoiceyBill AI           React, AI APIs          AI-powered billing
+                                                  application.
+
+  Energy Dashboard        Web technologies, Data  Energy data
+                          Visualization           visualization and
+                                                  analytics.
+  -----------------------------------------------------------------------
+
+Explore more projects on my [GitHub
+profile](https://github.com/Syed-Bilal-Haider-Engineer).
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Statistics
+
+```{=html}
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Syed-Bilal-Haider-Engineer&show_icons=true&theme=algolia" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Bilal-Haider-Engineer&layout=compact&theme=algolia" />
+```
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Syed-Bilal-Haider-Engineer&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" alt="GitHub statistics" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Bilal-Haider-Engineer&layout=compact&theme=algolia&hide_border=true" alt="Most used programming languages" />`{=html}
+```{=html}
 </p>
-
----
-
-## 📫 Connect With Me
-
+```
+```{=html}
 <p align="center">
-  <a href="https://www.linkedin.com/in/bilalsoftwaredeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:bilaldev151214@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Syed-Bilal-Haider-Engineer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Bilal-Haider-Engineer&theme=algolia&hide_border=true" alt="GitHub contribution streak" />`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## ⚡ Current Focus
+## 🤝 Let's Connect
 
-- 🔍 Actively seeking **Frontend / Backend / Full-Stack / Software Engineering roles in Germany & EU**  
-- 📚 Learning advanced system design & scalable architectures  
-- 🤖 Exploring deeper integration of AI in web applications  
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/bilalsoftwaredeveloper/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />`{=html}
+`</a>`{=html} `<a href="mailto:bilaldev151214@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />`{=html}
+`</a>`{=html}
+`<a href="https://github.com/Syed-Bilal-Haider-Engineer">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />`{=html}
+`</a>`{=html} `<a href="https://bilal-haider.vercel.app">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" />`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 💡 Fun Fact
+### 💡 A Little About Me
 
-I enjoy turning complex ideas into simple, scalable, and user-friendly applications 🚀
+I believe great software is not just about writing code. It is about
+understanding problems, designing thoughtful solutions, and delivering
+products that make a real difference.
+
+**Build. Learn. Improve. Repeat.** 🚀
